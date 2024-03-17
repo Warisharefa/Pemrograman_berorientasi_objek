@@ -1,0 +1,32 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication7;
+
+/**
+ *
+ * @author Ogan
+ */
+public class JavaApplication7 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Datapribadi");
+        System.out.println("Nim:22100115");
+        System.out.println("Nama:waris soniman harefa");
+        System.out.println("Jk:laki laki");
+        System.out.println("Alamat:Medan Kota");
+        System.out.println("No/wa:082345672341");
+        System.out.println("Email:warisharefa1999@gmail.com");
+        
+        
+        
+        
+        
+   }
+    
+}
